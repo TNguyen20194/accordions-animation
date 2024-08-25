@@ -1,0 +1,7 @@
+.element {
+    background-color: red;
+  }
+
+  .element::before {
+    content: 'Before pseudo element';
+  }
